@@ -6,6 +6,18 @@
 
 <img src="pack/assets/thumb.png" alt="爱弥斯像素飞行形象" width="160">
 
+## 动画预览
+
+| 悬停 | 飞行 | 开心 | 期待 |
+| :---: | :---: | :---: | :---: |
+| ![悬停扇翅](preview/hover.gif) | ![飞行扇翅](preview/fly.gif) | ![开心](preview/happy.gif) | ![期待](preview/excited.gif) |
+
+| 喜欢 | 慌张 | 装晕 | 跳舞 |
+| :---: | :---: | :---: | :---: |
+| ![喜欢与爱心](preview/love.gif) | ![慌张](preview/flustered.gif) | ![装晕](preview/faint.gif) | ![跳舞](preview/dance.gif) |
+
+动图由当前形象包的实际渲染生成，仅展示动作，不含音频。飞行动作在原地展示；实际使用时角色会在屏幕上移动。
+
 ## 下载
 
 取得[发布页面](https://github.com/rencarry/Coopanion-Aemeath/releases/latest)提供的 `aemeath-pixel-flight-1.0.0.zip`。
