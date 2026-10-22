@@ -12,7 +12,7 @@
 
 文件名：`aemeath-pixel-flight-1.0.0.zip`，约 **58 MiB**，包含八首歌曲 MP3。可以直接导入 ZIP，不需要先解压。
 
-本包基于 Coopanion **0.2.5 的 manifest 2 / API 2** 接口制作。其他软件版本及不同平台的行为，以实际验证为准。
+本包基于 Coopanion **0.2.6 的 manifest 2 / API 2** 接口制作。其他软件版本及不同平台的行为，以实际验证为准。
 
 ## 安装与更新
 
