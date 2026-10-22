@@ -6,9 +6,21 @@
 
 <img src="assets/thumb.png" alt="爱弥斯像素飞行形象" width="160">
 
+## 动画预览
+
+| 悬停 | 飞行 | 开心 | 期待 |
+| :---: | :---: | :---: | :---: |
+| ![悬停扇翅](https://raw.githubusercontent.com/yundanqingfeng/Coopanion-Aemeath/main/preview/hover.gif) | ![飞行扇翅](https://raw.githubusercontent.com/yundanqingfeng/Coopanion-Aemeath/main/preview/fly.gif) | ![开心](https://raw.githubusercontent.com/yundanqingfeng/Coopanion-Aemeath/main/preview/happy.gif) | ![期待](https://raw.githubusercontent.com/yundanqingfeng/Coopanion-Aemeath/main/preview/excited.gif) |
+
+| 喜欢 | 慌张 | 装晕 | 跳舞 |
+| :---: | :---: | :---: | :---: |
+| ![喜欢与爱心](https://raw.githubusercontent.com/yundanqingfeng/Coopanion-Aemeath/main/preview/love.gif) | ![慌张](https://raw.githubusercontent.com/yundanqingfeng/Coopanion-Aemeath/main/preview/flustered.gif) | ![装晕](https://raw.githubusercontent.com/yundanqingfeng/Coopanion-Aemeath/main/preview/faint.gif) | ![跳舞](https://raw.githubusercontent.com/yundanqingfeng/Coopanion-Aemeath/main/preview/dance.gif) |
+
+动图由当前形象包的实际渲染生成，仅展示动作，不含音频。飞行动作在原地展示；实际使用时角色会在屏幕上移动。
+
 ## 下载
 
-取得发布页面提供的 `aemeath-pixel-flight-1.0.0.zip`。
+取得[发布页面](https://github.com/yundanqingfeng/Coopanion-Aemeath/releases/latest)提供的 `aemeath-pixel-flight-1.0.0.zip`。
 
 文件名：`aemeath-pixel-flight-1.0.0.zip`，约 **58 MiB**，包含八首歌曲 MP3。可以直接导入 ZIP，不需要先解压。
 
@@ -21,6 +33,8 @@
 3. 更新同名形象时，按界面提示选择重装或更新。同为 1.0.0 的旧文件不一定有相同内容，以本次提供的包为准。
 4. 想听声音，开启音效总开关及动作、表情、触摸等相应类别。首次使用时，请等待音频加载完成。
 5. 想让她自己活动，在软件里开启自动活动；关闭时仍可点击、抚摸或发送动作指令。
+
+形象包 ID 为 `aemeath-pixel-flight`，与正常版不同，可以同时保留。
 
 ## 她会做什么
 

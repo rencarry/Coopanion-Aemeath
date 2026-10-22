@@ -20,7 +20,9 @@
 
 ## 下载
 
-取得[发布页面](https://github.com/rencarry/Coopanion-Aemeath/releases/latest)提供的 `aemeath-pixel-flight-1.0.0.zip`。
+源码仓库不包含八首完整歌曲的音频文件；需要完整点歌功能，请下载 Release 中的形象包。
+
+取得[发布页面](https://github.com/yundanqingfeng/Coopanion-Aemeath/releases/latest)提供的 `aemeath-pixel-flight-1.0.0.zip`。
 
 文件名：`aemeath-pixel-flight-1.0.0.zip`，约 **58 MiB**，包含八首歌曲 MP3。可以直接导入 ZIP，不需要先解压。
 

@@ -1,6 +1,5 @@
 # 歌曲音频不进仓库（版权归库洛游戏，只随 Release 附件分发）
 pack/assets/songs/
-*.mp3
 *.flac
 
 # 构建产物与临时文件
